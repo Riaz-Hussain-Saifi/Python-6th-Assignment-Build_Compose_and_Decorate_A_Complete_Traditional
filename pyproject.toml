@@ -1,0 +1,7 @@
+[project]
+name = "build-compose-and-decorate-a-complete-traditional"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
